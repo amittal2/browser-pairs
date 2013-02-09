@@ -11,9 +11,9 @@ a {
 
 body {
   text-align: center;
-  background-image: url(images/left.png);
-  background-repeat: no-repeat;
-  background-color: #FAAC58;
+  background-image: url(http://static.gotpetsonline.com/pictures-gallery/dog-pictures-breeders-puppies-rescue/cavalier-king-charles-spaniel-pictures-breeders-puppies-rescue/pictures/cavalier-king-charles-spaniel-0105.jpg);
+  background-repeat: repeat;
+  background-color: no-color;
   color: #DA4930;
   font-family: "Days One", sans-serif;
 }
