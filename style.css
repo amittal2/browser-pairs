@@ -98,14 +98,14 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(http://stuffpoint.com/puppies/image/53106-puppies-puppies-wallpaper11.jpg) no-repeat; background-size: contain;}
-.fx {background: url(http://stuffpoint.com/puppies/image/53106-puppies-puppies-wallpaper11.jpg) no-repeat; background-size: contain;}
-.cr {background: url(http://stuffpoint.com/puppies/image/53106-puppies-puppies-wallpaper11.jpg) no-repeat; background-size: contain;}
-.sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
-.op {background: url(./images/op.png) no-repeat; background-size: contain;}
-.ns {background: url(./images/ns.png) no-repeat; background-size: contain;}
-.tb {background: url(./images/tb.png) no-repeat; background-size: contain;}
-.fm {background: url(./images/fm.png) no-repeat; background-size: contain;}
+.ie {background: url(http://25.media.tumblr.com/tumblr_m0l7cqI3WN1qbp6fxo1_500.jpg) no-repeat; background-size: contain;}
+.fx {background: url(http://1.bp.blogspot.com/-oHYNoONLxY4/TuIs95ijRBI/AAAAAAAAAO4/LKtWxSIdeQw/s1600/Panda+bear.jpg) no-repeat; background-size: contain;}
+.cr {background: url(http://us.123rf.com/400wm/400/400/isselee/isselee1207/isselee120700697/14276176-polar-bear-cub-ursus-maritimus-3-months-old-standing-against-white-background.jpg) no-repeat; background-size: contain;}
+.sf {background: url(http://images4.fanpop.com/image/photos/23900000/Big-nose-koala-australia-23936329-1466-1363.jpg) no-repeat; background-size: contain;}
+.op {background: url(http://www.dimensionsinfo.com/wp-content/uploads/2009/10/Kangaroo-Pouch.jpg) no-repeat; background-size: contain;}
+.ns {background: url(http://www.carolglazerphotography.com/Animal_Babies/bin/images/small/Black_Bear_Cub_1.jpg) no-repeat; background-size: contain;}
+.tb {background: url(http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-love-harries-twins-2.png) no-repeat; background-size: contain;}
+.fm {background: url(http://www.samhawken.com/blog/wp-content/uploads/nemo.jpg) no-repeat; background-size: contain;}
 
 
 /* The .reset class is added to the cards when the game is reset */
